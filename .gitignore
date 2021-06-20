@@ -1,0 +1,7 @@
+build/
+SOFTWARE/COBOL/
+SOFTWARE/KICKS/
+sysgen/dasd/
+sysgen/prt*.txt
+sysgen/*.log
+sysgen/*.tar
